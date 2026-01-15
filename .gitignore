@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit secrets (NIE wrzucać na GitHub)
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+
+# PDFy (opcjonalnie - jeśli nie chcesz wrzucać raportu)
+*.pdf
+
+# Windows
+Thumbs.db
